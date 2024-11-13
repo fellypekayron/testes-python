@@ -7,17 +7,17 @@ class Calculadora:
     def soma(self, n1, n2):
         return n1 + n2
     
-    # 2) Criar um método
+    # 3) Criar um método
     # chamado "subtração()"
     def subtracao(self, n1, n2):
         return n1 - n2
     
-    # 2) Criar um método
+    # 4) Criar um método
     # chamado "multiplicação()"
     def multiplicacao(self, n1, n2):
         return n1 * n2
     
-    # 2) Criar um método
+    # 5) Criar um método
     # chamado "diviisao()"
     def divisao(self, n1, n2):
         if n2 == 0:
